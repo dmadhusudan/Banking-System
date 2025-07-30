@@ -1,0 +1,7 @@
+Project Structure
+BankingSystem/
+├── Account.java
+├── Bank.java
+├── Main.java
+├── Transaction.java
+└── accounts.txt  (auto-created if not present)
